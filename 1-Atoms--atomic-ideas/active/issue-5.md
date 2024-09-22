@@ -72,7 +72,19 @@ Here are five **FAQ** related to the problem of determining the total number of 
 These FAQs provide clarity on the problem's rules and strategies for finding the solution.
 
 ### Experiential Scenarios
+Here are some scenarios that a teacher could use to make the mathematical problem more relatable and applicable to real-world situations:
 
+Scenario 1: Travel Planning
+"Imagine you're planning a road trip across the country. The cities you want to visit are represented by the nodes in this graph, and the highways connecting them are the edges. However, due to construction or one-way streets, you can only travel in certain directions. How can you plan the shortest or most efficient route to visit all the cities?"
+
+Scenario 2: Factory Production
+"A factory produces different types of products. Each product requires raw materials from specific suppliers. The graph represents the factory, with each node representing a production station and the edges representing the flow of materials. Due to machine limitations or safety regulations, materials can only flow in certain directions. How can we know all the different ways froam A to B so that we could optimize the production process to minimize transportation costs and maximize efficiency?"
+
+Scenario 3: Network Routing
+"Think of the internet as a giant network. Each computer or server is a node, and the connections between them are edges. Data packets need to be sent from one device to another. However, due to network congestion or security measures, data can only travel along certain paths. How can we find the fastest or most reliable route for data to travel from one device to another?"
+
+Scenario 4: City Planning
+"A city is planning to build a new subway system. The stations are represented by the nodes, and the tunnels between them are the edges. Due to geographical constraints or engineering challenges, tunnels can only be built in certain directions. How can the city plan the subway system to minimize construction costs and maximize accessibility for its citizens?"
 
 ### Comments/Notes
 
